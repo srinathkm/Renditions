@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="ridc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/ridc/commons-codec-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/ridc/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/ridc/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/ridc/httpclient-4.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/ridc/httpcore-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/ridc/httpmime-4.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/ridc/ojdbc6.jar!/" />
+      <root url="jar://$USER_HOME$/ridc/oracle.ucm.ridc-11.1.1.jar!/" />
+      <root url="file://$USER_HOME$/ridc" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/ridc/oracle.ucm.ridc-11.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/ridc" recursive="false" />
+  </library>
+</component>

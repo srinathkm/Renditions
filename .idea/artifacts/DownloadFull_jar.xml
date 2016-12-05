@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DownloadFull:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DownloadFull_jar</output-path>
+    <root id="archive" name="DownloadFull.jar">
+      <element id="module-output" name="DownloadFull" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/commons-codec-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/commons-httpclient-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/commons-logging-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/httpclient-4.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/httpcore-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/httpmime-4.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/ojdbc6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/oracle.ucm.ridc-11.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/oracle.ucm.ridc-11.1.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ridc/oracle.ucm.ridc.was-lib-11.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
