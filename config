@@ -1,0 +1,15 @@
+query=SELECT revisions.did,revisions.dDocName,revisions.dWebExtension,revisions.drendition1,revisions.drendition2 from revisions,docmeta where revisions.did=docmeta.did and revisions.drevrank='0' and revisions.dstatus='RELEASED'
+RIDC_SERVER_SOURCE=<UCM hostname>
+RIDC_PORT_SOURCE=<UCM Intradocserverport>
+IDC_PROTOCOL=idc
+RIDC_SOURCE_USER=<UCM Admin username>
+PDFDownloadPath=<Path for downloading PDF's>
+JPGDownloadPath=<Path for downloading JPG's>
+ThumbnailDownloadPath=<Path for downloading Thumbnails>
+ListDownloadPath=<Path for creating search items reports>
+PreviewDownloadPath=<Path for downloading Preview renditions>
+dbwccuser=<UCM db schema user>
+dbwccpassword=<UCM db password>
+dbhostname=<UCM DB host name>
+dblistenport=<UCM DB listen port>
+dbsid=<UCM DB SID>
